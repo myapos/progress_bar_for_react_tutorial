@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is created for demonstrating a group of examples in the
-[codebitshub.com](https://codebitshub.com/progress_bar_for_react)
+[https://codebitshub.com/progress_bar_for_react](https://codebitshub.com/progress_bar_for_react)
 
 ## Available Scripts
 
